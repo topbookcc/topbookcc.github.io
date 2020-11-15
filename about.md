@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 关于我 
+title: About Me
 ---
 
 一个在读NLP研究生，平时喜欢听听音乐，码码代码，下下象棋。
-我对机器学习，自然语言处理比较感兴趣，偶尔用文字记录自己的心情。
+我对张量网络、自然语言处理比较感兴趣，偶尔用文字记录自己的心情。
 
 <h3> 我是一个逆着时光行走的人。 </h3>  
 
@@ -14,7 +14,7 @@ title: 关于我
 
 
 <!-- 博客源码在 <a target="_blank" href='https://github.com/topbookcc/topbookcc.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~ -->
-
+<br>
 
 希望看见这段话的人每天都开开心心 ^v^
 
