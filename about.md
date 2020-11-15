@@ -3,7 +3,7 @@ layout: page
 title: 关于我 
 ---
 
-一个在读NLP研究生，平时喜欢听音乐，码代码，下象棋。偶尔用文字记录自己的心情。
+一个在读NLP研究生，平时喜欢听听音乐，码码代码，下下象棋。偶尔用文字记录自己的心情。
 
 对机器学习，自然语言处理比较感兴趣。
 
@@ -11,15 +11,15 @@ title: 关于我
 
 <h2> 此情可待成追忆，只是当时已惘然 </h2>
 
+<br>
 
 <!-- 博客源码在 <a target="_blank" href='https://github.com/topbookcc/topbookcc.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~ -->
 
-
 <h3> 我是一个逆着时光行走的人。 </h3>  
 
-查看 [技术支持](https://leopardpan.cn/support/) 需求帮助
+希望看见这段话的人每天都开开心心 ^v^
 
-希望看见这段话的人每天都开开心心 ^v^，谢谢~
+查看 [技术支持](https://leopardpan.cn/support/) 需求帮助
 
 {% include comments.html %}
 
