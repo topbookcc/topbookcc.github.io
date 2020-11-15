@@ -18,6 +18,9 @@ title: About Me
 
 希望看见这段话的人每天都开开心心 ^v^
 
+To be what you want to be!
+
+<br>
 查看 [技术支持](https://leopardpan.cn/support/) 需求帮助
 
 {% include comments.html %}
